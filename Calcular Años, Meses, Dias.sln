@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular Años, Meses, Dias", "Calcular Años, Meses, Dias\Calcular Años, Meses, Dias.csproj", "{FFA58411-1D10-4FC9-B6EF-E9FF7F5548A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFA58411-1D10-4FC9-B6EF-E9FF7F5548A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA58411-1D10-4FC9-B6EF-E9FF7F5548A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA58411-1D10-4FC9-B6EF-E9FF7F5548A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA58411-1D10-4FC9-B6EF-E9FF7F5548A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2410A43-531D-47BB-9364-8F5677B113C9}
+	EndGlobalSection
+EndGlobal
